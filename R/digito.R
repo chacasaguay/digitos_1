@@ -11,5 +11,4 @@ digitos<- function(Numero_3_digitos){
     }else{
       print("no es un numero de 3 digitos ")
     }
-
   }
